@@ -19,8 +19,3 @@
 ![](./PortfolioImages/0019.jpg)
 ![](./PortfolioImages/0020.jpg)
 ![](./PortfolioImages/0021.jpg)
-![](./PortfolioImages/0022.jpg)
-![](./PortfolioImages/0023.jpg)
-![](./PortfolioImages/0024.jpg)
-![](./PortfolioImages/0025.jpg)
-![](./PortfolioImages/0026.jpg)
