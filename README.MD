@@ -19,7 +19,3 @@
 ![](./PortfolioImages/Portfolio_Kacper_Gasior-Unity_page-0019.jpg)
 ![](./PortfolioImages/Portfolio_Kacper_Gasior-Unity_page-0020.jpg)
 ![](./PortfolioImages/Portfolio_Kacper_Gasior-Unity_page-0021.jpg)
-![](./PortfolioImages/Portfolio_Kacper_Gasior-Unity_page-0022.jpg)
-![](./PortfolioImages/Portfolio_Kacper_Gasior-Unity_page-0023.jpg)
-![](./PortfolioImages/Portfolio_Kacper_Gasior-Unity_page-0024.jpg)
-![](./PortfolioImages/Portfolio_Kacper_Gasior-Unity_page-0025.jpg)
